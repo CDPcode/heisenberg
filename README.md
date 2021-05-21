@@ -1,2 +1,2 @@
 # heisenberg
-Breaking bad based programming language
+Breaking bad themed programming language
